@@ -1,0 +1,27 @@
+.cards-container {
+  display: flex;
+  gap: 3px;
+}
+
+.card-number-form {
+  margin-top: 5px;
+}
+
+.card-logo {
+  width: 50px;
+  padding: 2px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.transparent {
+  opacity: 50%;
+}
+
+.green-bkg {
+  background-color: greenyellow;
+}
+
+.red-bkg {
+  background-color: red;
+}
